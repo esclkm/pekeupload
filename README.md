@@ -19,7 +19,5 @@ pekeupload
 					$('.uploadedfiles').append(decoded);
             }
 			});
-//upload.php?r=mavatars&ext=page&cat=ceiling&code=96
-			//url:'{FILEUPLOAD_URL}',
-			});
-		</script>
+	});
+	</script>
